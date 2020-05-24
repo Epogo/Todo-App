@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:green;
 }
 
 .App-logo {
@@ -26,6 +27,24 @@
 
 .App-link {
   color: #61dafb;
+}
+.apple{
+  background-color:rgb(11, 220, 228);
+  border-style:dashed;
+  border-width:2px;
+  border-radius:10px;
+}
+
+.box{
+  background-color:blanchedalmond;
+  border-style:dotted;
+  border-width:2px;
+}
+.btn1{
+  background-color:magenta;
+  border-style:dashed;
+  border-width:1px;
+  border-color:black;
 }
 
 @keyframes App-logo-spin {
